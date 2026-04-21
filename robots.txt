@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pshotbenefits.com/sitemap.xml
+Sitemap: https://pshotbenefits.com/blog-sitemap.xml
+Sitemap: https://pshotbenefits.com/pages-sitemap.xml
